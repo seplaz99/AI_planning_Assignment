@@ -1,4 +1,4 @@
-<img width="763" height="765" alt="image" src="https://github.com/user-attachments/assets/b3a02cb1-7377-4b6c-8d2c-59fd08e15be8" /># AI_planning_Assignment
+# AI_planning_Assignment
 
 인공지능 수업 과제 코드 저장소입니다.
 
